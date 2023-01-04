@@ -334,7 +334,7 @@ const Menu = props => {
     } else if (winner === computer) {
       return /*#__PURE__*/(
         React.createElement("section", { id: "Menu", className: showMenu ? 'display' : 'display hidden' }, /*#__PURE__*/
-        React.createElement("h1", { className: "title" }, "Ezz Deckk!!"), /*#__PURE__*/
+        React.createElement("h1", { className: "title" }, Ezz Deckk!!"), /*#__PURE__*/
         React.createElement("hr", null), /*#__PURE__*/
         React.createElement("div", null, /*#__PURE__*/
         React.createElement("p", { className: "menu-text" }, "Mau kesempatan lain?"), /*#__PURE__*/
@@ -358,7 +358,7 @@ const Menu = props => {
     } else {
       return /*#__PURE__*/(
         React.createElement("section", { id: "Menu", className: showMenu ? 'display' : 'display hidden' }, /*#__PURE__*/
-        React.createElement("h1", { className: "title" }, "by one deck?"), /*#__PURE__*/
+        React.createElement("h1", { className: "title" }, "baywan dekkk?"), /*#__PURE__*/
         React.createElement("hr", null), /*#__PURE__*/
         React.createElement("div", null, /*#__PURE__*/
         React.createElement("button", { onClick: token => startGame('X') }, "X"), /*#__PURE__*/
